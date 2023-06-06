@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/lacasa2020
 excerpt: 'This was my first peer-reviewed publication, working under Dr. Ciampitti as a student intern.'
 date: 2020-09-01
-venue: 'Journal 1'
+venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-020-72693-1'
 citation: 'acasa, J., Gaspar, A., Hinds, M. et al. Bayesian approach for maize yield response to plant density from both agronomic and economic viewpoints in North America. <i>Sci Rep</i> 10, 15948 (2020)'
 ---
