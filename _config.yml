@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Recent news"
 title_separator          : "-"
 name                     : &name "Josefina"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Josefina"
+  name             : "Josefina Lacasa"
   avatar           : "profile.png"
-  bio              : "I'm"
+  bio              : "PhD candidate in Agronomy"
   location         : "Manhattan, KS, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
