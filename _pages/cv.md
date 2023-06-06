@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Agronomy, Universidad de Buenos Aires, 2020
+* M.S. in Statistics, Kansas State University, 2023
+* Ph.D in Agronomy, Kansas State University, 2023 (expected)
 
 Work experience
 ======
