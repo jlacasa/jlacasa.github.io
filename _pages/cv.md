@@ -40,6 +40,6 @@ Teaching
  
  
 
-[pdf](/Lacasa_shortCV.pdf)
+[pdf](/Lacasa_march23.pdf)
 
 
