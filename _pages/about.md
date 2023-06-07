@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website"
+title: "Welcome to my personal website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am Josefina, 
-
-Research interests
-======
-
-
-Contact
-------
-Feel free to sed me an email to lacasa "at" ksu.edu.
+I am Josefina, currently PhD candidate at K-State.  
+I work at the intersection between statistics and crop physiology. In this webpage you will find news about my research and teaching experiences!  
