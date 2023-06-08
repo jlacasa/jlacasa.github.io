@@ -2,7 +2,7 @@
 title: "Crop Science 2021"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-Rworkshop
+permalink: /teaching/2021-agron220
 venue: "Kansas State University, Department of Agronomy"
 date: 2021-09-01
 location: "Manhattan, KS, USA"
