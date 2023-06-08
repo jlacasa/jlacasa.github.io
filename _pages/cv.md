@@ -9,16 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Find the complete PDF [here](/Lacasa_march23.pdf)
+
 Education
 ======
 * B.S. in Agronomy, Universidad de Buenos Aires, 2020
 * M.S. in Statistics, Kansas State University, 2023
 * Ph.D in Agronomy, Kansas State University, 2023 (expected)
 
-Research interest
+Research interests
 ======
+* Applied statistics in Agronomy
 * Crop physiology
-* Applied statistics
 
 Publications
 ======
@@ -39,7 +41,5 @@ Teaching
   {% endfor %}</ul>
  
  
-
-[pdf](/Lacasa_march23.pdf)
 
 
