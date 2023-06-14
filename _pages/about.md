@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website!"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 I am Josefina, currently PhD candidate at K-State.  
-I work at the intersection between statistics and crop physiology. In this webpage you will find news about my research and teaching experiences!  
+Overall, I work at the intersection between statistics and crop physiology, and work to improve the quantitative methods in agronomy. 
+Here you will find news about my research and teaching experiences. Stay tuned!  
