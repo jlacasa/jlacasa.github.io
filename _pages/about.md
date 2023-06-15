@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 I am Josefina, currently PhD candidate at K-State.  
-Overall, I work at the intersection between statistics and crop physiology, and work to improve the quantitative methods in agronomy. 
+Overall, my research lies at the intersection between statistics and crop physiology. I work to improve the quantitative methods in agronomy. 
 Here you will find news about my research and teaching experiences. Stay tuned!  
