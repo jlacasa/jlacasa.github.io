@@ -8,8 +8,6 @@ date: 2021-09-01
 location: "Manhattan, KS, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Undergraduate-level course teaching principles underlying practices used in the culture of grain and forage crops.  
 
-Heading 1
-======
-
+(More info)[https://catalog.k-state.edu/preview_course_nopop.php?catoid=25&coid=131460]
