@@ -16,7 +16,7 @@ By this time, I also became a huge supporter of Bayesian Statistics.
 
 After finishing my B.S. in Agronomy, I moved to the US to work on my M.Sc. in Mathematical Statistics and Ph.D. in Agronomy at K-State. 
 My research interests are Applied Statistics in Agronomy and Crop Physiology.  
-You can find my complete CV [here](/Lacasa_march23.pdf)
+You can find my complete CV [here](/Lacasa_June23.pdf)
 
 **Hobbies**  
 I love playing sports, like volleyball, climbing, hiking, and soccer. 
