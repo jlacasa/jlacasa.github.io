@@ -10,8 +10,4 @@ location: "Manhattan, KS, USA"
 
 Teaching assistant in graduate course on an introduction to applied Bayesian statistics.
 
-Results
-======
-
-
-(Course website)[https://sites.google.com/view/stat768spring2023]
+[Course website](https://sites.google.com/view/stat768spring2023)
