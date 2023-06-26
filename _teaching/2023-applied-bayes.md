@@ -1,5 +1,5 @@
 ---
-title: "Applied Bayesian Modeling and Predicition"
+title: "Applied Bayesian Modeling and Prediction"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-stat768
@@ -8,7 +8,10 @@ date: 2023-01-17
 location: "Manhattan, KS, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Graduate-level course teaching an introduction to applied Bayesian statistics.
 
-Heading 1
+Results
 ======
+
+
+(Course website)[https://sites.google.com/view/stat768spring2023]
