@@ -1,5 +1,5 @@
 ---
-title: "R workshop 2022"
+title: "An introduction to applied statistics in R - 2022"
 collection: teaching
 type: "3-month long course"
 permalink: /teaching/2015-spring-teaching-1
