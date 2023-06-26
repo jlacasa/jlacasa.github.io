@@ -1,5 +1,5 @@
 ---
-title: "Crop Science 2021"
+title: "Crop Science (AGRON 220)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-agron220
