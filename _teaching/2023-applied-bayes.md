@@ -1,5 +1,5 @@
 ---
-title: "Applied Bayesian Modeling and Prediction"
+title: "Applied Bayesian Modeling and Prediction (STAT 768)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-stat768
