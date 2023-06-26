@@ -9,16 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Find the complete PDF [here](/Lacasa_march23.pdf)
+I was born and raised in Buenos Aires, Argentina. 
+I studied Agronomy at the Universidad of Buenos Aires, where I worked as a student intern helping in applied biochemistry and crop physiology projects. 
+During my study abroad program at Kansas State University (K-State), I continued exploring my passion for research in crop physiology and applied statistics. 
+By this time, I also became a huge supporter of Bayesian Statistics. 
+After finishing my B.S. in Agronomy, I moved to the US to work on my M.Sc. in Mathematical Statistics and Ph.D. in Agronomy. 
+My research interests are Applied Statistics in Agronomy and Crop Physiology.  
+You can find my complete CV [here](/Lacasa_march23.pdf)
 
-Education
-======
-* B.S. in Agronomy, Universidad de Buenos Aires, 2020
-* M.S. in Statistics, Kansas State University, 2023
-* Ph.D in Agronomy, Kansas State University, 2023 (expected)
-
-Research interests
-======
-* Applied statistics in Agronomy
-* Crop physiology
-
+**Hobbies**  
+I love playing sports, like volleyball, climbing, hiking, and soccer. 
