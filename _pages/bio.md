@@ -26,5 +26,5 @@ You can find my complete CV [here](/Lacasa_June23.pdf).
 I love playing volleyball and soccer, climbing, hiking, and spending time outdoors with family and friends (see picture below). 
 
 <p align="center">
-  <img src="034.JPG" width="600" />
+  <img src="https://github.com/jlacasa/jlacasa.github.io/blob/master/034.JPG?raw=true" width="600" />
 </p>
