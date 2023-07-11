@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 I was born and raised in Buenos Aires (Argentina) but was lucky enough to spend most of my summers and winters on my family's farm. 
-This led me to study Agronomy at the Universidad of Buenos Aires, where I worked as a research teaching assistant in Applied Biochemistry and Crop Physiology. 
+This led me to study Agronomy at the Universidad of Buenos Aires, where I worked as a research and teaching assistant in Applied Biochemistry and Crop Physiology. 
 During my study abroad program at K-State, I continued exploring my passion for research in crop physiology and applied statistics. 
 By this time, I also became a huge supporter of Bayesian Statistics.  
 
