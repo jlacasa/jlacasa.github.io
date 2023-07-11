@@ -23,7 +23,7 @@ My research interests are Applied Statistics in Agronomy and Crop Physiology.
 You can find my complete CV [here](/Lacasa_June23.pdf).
 
 **Hobbies**  
-I love playing volleyball and soccer, climbing, hiking, and spending time outdoors. 
+I love playing volleyball and soccer, climbing, hiking, and spending time outdoors with family and friends (see picture below). 
 
 <p align="center">
   <img src="034.JPG" width="600" />
