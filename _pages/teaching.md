@@ -13,7 +13,7 @@ author_profile: true
 - Applied Biochemistry, SP 2017, FA 2018, Universidad de Buenos Aires.  
 
 
-**Self-led courses**  
+**Instructor**  
 
-- An introduction to applied statistics in R - 2021, 2022.  
+- An introduction to applied statistics in R (Self-led course) - 2021, 2022.  
 
