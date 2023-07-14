@@ -20,7 +20,7 @@ In addition, I am helping the next generation of plant scientists to get started
 
 My research interests are Applied Statistics in Agronomy and Crop Physiology.  
 
-You can find my complete CV [here](/Lacasa_June23.pdf).
+You can find my complete CV [here](/Lacasa_July23.pdf).
 
 **Hobbies**  
 I love playing volleyball and soccer, climbing, hiking, and spending time outdoors with family and friends (see picture below). 
