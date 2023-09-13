@@ -14,7 +14,7 @@ This led me to study Agronomy at the Universidad of Buenos Aires, where I worked
 During my study abroad program at K-State, I continued exploring my passion for research in crop physiology and applied statistics. 
 By this time, I also became a huge supporter of Bayesian Statistics.  
 
-After finishing my B.S. in Agronomy, I moved to the US to work on my M.Sc. in Mathematical Statistics and Ph.D. in Agronomy at K-State. 
+After finishing my B.S. in Agronomy, I moved to the US to work on my M.Sc. in Statistics (Math option) and Ph.D. in Agronomy at K-State. 
 Most of my contributions so far are applications of advanced statistical methods to solve problems in crop physiology and plant breeding. 
 In addition, I am helping the next generation of plant scientists to get started learning R programming and statistics.  
 
