@@ -15,6 +15,6 @@ author_profile: true
 
 **Instructor**  
 
-- An Introduction to Applied Statistics in R - 2021, 2022.  
-  This mini-course strated on demand in 2021, to help a group of curious undergraduate students and visiting scholar in our lab. They approached me and told me they wanted to learn R and statistics! So we met weekly to introduce R programming and refresh+advance concepts in statistics.  
+- **Workshop:** An Introduction to Applied Statistics in R - 2021, 2022.  
+  This workshop started in 2021 to help a group of curious undergraduate students and visiting scholars in our lab. They approached me and told me they wanted to learn R and statistics! So we met weekly to introduce R programming and refresh+advance concepts in statistics.  
 
