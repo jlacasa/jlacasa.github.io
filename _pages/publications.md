@@ -9,6 +9,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=MYoy4dwAA
 
 **Accepted publications**  
 
+- Rodriguez, I. M., **Lacasa, J.**, van Versendaal, E., Lemaire, G., Belanger, G., Jégo, G., Sandaña, P. G., Soratto, R. P., Djalovic, I., Ata-Ul-Karim, S. T., Reussi Calvo, N. I., Giletto, C. M., Zhao, B., & Ciampitti, I. A. (2024). Revisiting the relationship between nitrogen nutrition index and yield across major species. European Journal of Agronomy, 154, 127079. [https://doi.org/https://doi.org/10.1016/j.eja.2023.127079](https://doi.org/https://doi.org/10.1016/j.eja.2023.127079)  
 - **Lacasa, J.**, Messina, C.D., Ciampitti, I.A. (2023). A probabilistic framework for forecasting maize crop yield response to agricultural inputs with sub-seasonal climate predictions. Environ. Res. Lett. [https://doi.org/10.1088/1748-9326/acd8d1](https://doi.org/10.1088/1748-9326/acd8d1)  
 - **Lacasa, J.**, Makowski, D., Hefley, T., Fernandez, J., van Versendaal, E., Lemaire, G., & Ciampitti, I. (2023). Comparison of statistical methods to fit critical nitrogen dilution curves. European Journal of Agronomy, 145, 126770. [/https://doi.org/10.1016/j.eja.2023.126770](https://doi.org/10.1016/j.eja.2023.126770)
 - Fernandez, J. A., van Versendaal, E., Lacasa, J., Makowski, D., Lemaire, G., & Ciampitti, I. A. (2022). Dataset characteristics for the determination of critical nitrogen dilution curves: From past to new guidelines. European Journal of Agronomy, 139, 126568. [https://doi.org/10.1016/j.eja.2022.126568](https://doi.org/10.1016/j.eja.2022.126568)
