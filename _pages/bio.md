@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Bio"
-permalink: /bio/
+title: "About"
+permalink: /about/
 author_profile: true
 redirect_from:
   - /resume
