@@ -23,7 +23,7 @@ My research interests are applied statistics in agriculture, experimental design
 You can find my complete CV [here](/Lacasa_July23.pdf).
 
 **Hobbies**  
-I love playing volleyball and soccer, climbing, hiking, reading, cooking, and most of all spending time outdoors with family and friends (see picture below). 
+I love playing volleyball and soccer, climbing, hiking, reading, cooking, and spending time outdoors with family and friends (see picture below). 
 
 <p align="center">
   <img src="https://github.com/jlacasa/jlacasa.github.io/blob/master/034.JPG?raw=true" width="600" />
