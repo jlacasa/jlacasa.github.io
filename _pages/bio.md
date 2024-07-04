@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-I was born and raised in Buenos Aires (Argentina) but was lucky enough to spend most of my summers and winters on my family's farm. 
-This led me to study Agronomy at the Universidad of Buenos Aires, where I worked as a research and teaching assistant in Applied Biochemistry and Crop Physiology. 
-During my study abroad program at K-State, I continued exploring my passion for research in crop physiology and applied statistics. 
-By this time, I also became a Bayesian Statistics enthusiast.  
+I was born and raised in Buenos Aires (Argentina) and was lucky enough to spend most of my summers and winters on my family's farm. 
+This motivated me to study Agronomy at the University of Buenos Aires, where I worked as a research assistant and teaching assistant in Applied Biochemistry and Crop Physiology. 
+Over time, my research in crop science fueled my interest for applied statistics. Very frequently, I found myself delving into the literature to identify the best statistical approaches for the problems I was facing. 
+This cultivated a deep interest in applied statistics, agricultural statistics, and applied Bayesian statistics.  
 
-After finishing my B.S. in Agronomy, I moved to the U.S. to work on my M.Sc. in Statistics (Math option) and Ph.D. in Agronomy at K-State. 
+After earning my B.S. in Agronomy, I pursued an M.Sc. in Statistics (Math option) and a Ph.D. in Agronomy at Kansas State University. 
 Most of my research contributions so far are methodological development and translational statistics to solve problems in crop physiology and plant breeding. 
 In addition, I am helping the next generation of plant scientists to get started with R programming and statistics.  
 
