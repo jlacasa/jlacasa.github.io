@@ -16,7 +16,7 @@ This cultivated a deep interest in applied statistics, agricultural statistics, 
 
 After earning my B.S. in Agronomy, I pursued an M.Sc. in Statistics (Math option) and a Ph.D. in Agronomy at Kansas State University. 
 Most of my research contributions so far are methodological development and translational statistics to solve problems in crop physiology and plant breeding. 
-In addition, I am helping the next generation of plant scientists to get started with R programming and statistics.  
+I am committed to helping develop the statistical literacy of our future generations of agricultural scientists. 
 
 My research interests are applied statistics in agriculture, experimental design, and applied Bayesian statistics.  
 
