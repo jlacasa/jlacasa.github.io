@@ -4,4 +4,4 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-[pdf](/Lacasa_July23.pdf).
+[pdf](/Lacasa_longCV_aug2024.pdf).
