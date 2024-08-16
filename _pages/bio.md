@@ -20,7 +20,7 @@ I am committed to helping develop the statistical literacy of our future generat
 
 My research interests are applied statistics in agriculture, experimental design, and applied Bayesian statistics.  
 
-You can find my complete CV [here](/Lacasa_July23.pdf).
+You can find my complete CV [here](/Lacasa_longCV_aug2024.pdf).
 
 **Hobbies**  
 I love playing volleyball and soccer, climbing, hiking, reading, cooking, and spending time outdoors with family and friends (see picture below). 
