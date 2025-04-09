@@ -10,6 +10,7 @@ author_profile: true
 
 
 **Workshops**  
+- **Instructor, Workshop Series on Applied Mixed Models. Institute for Digital Agriculture and Advanced Analytics, Kansas State University.** (3 sessions of 2hr each) March 2025.
 - **Bayesian Modeling for Agricultural Data - 16th International Conference on Precision Agriculture, 2024.**  
 - **An Introduction to Applied Statistics in R - 2021, 2022.**  
   This workshop started in 2021 to help a group of curious undergraduate students and visiting scholars in our lab. They approached me and told me they wanted to learn R and statistics! So we met weekly to introduce R programming and refresh+advance concepts in statistics.  
