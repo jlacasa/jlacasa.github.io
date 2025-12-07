@@ -8,6 +8,7 @@ author_profile: true
 See also my [Google Scholar](https://scholar.google.com/citations?user=MYoy4dwAAAAJ&hl=en).
 
 **Accepted publications**  
+- Deniz, A., Ruiz-Llacsahuanga, B., Critzer, F., Boyle, D.L., **Lacasa, J.**, Yucel, U., and Trinetta, V. (2025). Formation and control of Listeria monocytogenes growth and accumulation on food processing surfaces in the fresh produce industry. Journal of Food Protection. [https://doi.org/10.1016/j.jfp.2025.100619](https://doi.org/10.1016/j.jfp.2025.100619)
 - Giordano, N., Hayes, D., Hefley T.J., **Lacasa, J.**, Beres, B., Haag, L.A., Lollato, R. (2025). Re-thinking wheat yield response to plant density: risk assessment of seed treatment and cleaning methods. Plant Methods 21, 38 (2025). [https://doi.org/10.1186/s13007-025-01355-y](https://doi.org/10.1186/s13007-025-01355-y)
 - **Lacasa, J.**, Le Gouis, J., Degan, F., Lemaire, G. and Ciampitti, I. (2024), Effective Nitrogen Use in Wheat: A Multi-Environment Trial Comparison of Nitrogen Utilization Efficiency Versus Nutrition Index. Plant Breed. [https://doi.org/10.1111/pbr.13249](https://doi.org/10.1111/pbr.13249)
 - Abiola, S.O., **Lacasa, J.**, Carver, B.F., Arnall, B.D., Ciampitti, I.A. and de Oliveira Silva, A. (2024), Nitrogen uptake dynamics of high and low protein wheat genotypes. Front. Plant Sci. 15:1493901. [https://doi.org/10.3389/fpls.2024.1493901](https://doi.org/10.3389/fpls.2024.1493901)
