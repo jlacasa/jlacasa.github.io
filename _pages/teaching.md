@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 **Instructor**  
+- **Analysis of Messy Data (STAT 870) - Kansas State University**
+- **Design of Experiments (STAT 720) - Kansas State University**
 - **Linear Regression and Analysis of Variance (STAT 705) - Kansas State University**
 
 
