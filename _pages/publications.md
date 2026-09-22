@@ -8,6 +8,9 @@ author_profile: true
 See also my [Google Scholar](https://scholar.google.com/citations?user=MYoy4dwAAAAJ&hl=en).
 
 **Accepted publications**  
+- Santos, E., **Lacasa, J.**, et al. (2026). Reduction in Methane Emissions from Beef Cattle Resulting from a Sorghum-Based Finishing Diet. Accepted in Agricultural and Forest Meteorology.
+- Lopez, V., Rodrigues, E., **Lacasa, J.**, Yucel, U., Aramouni, F., Hulbert, L. & Trinetta, V. (2026). Evaluation of Enterobacteriaceae Shedding and Fecal Microbiota in Lean and Obese Ossabaw Pigs Consuming Sorghum Kombucha During Early Weight Management. Accepted in Frontiers in Animal Science, section Animal Nutrition.
+- Abou Elias, C.L., Cowan, J., Amama P.B., Aramouni F., **Lacasa, J.**, Yucel, U., Trinetta, V. (2026). Antimicrobial efficacy of UV-activated titanium dioxide in microgreen systems. Accepted in Food Protection Trends.
 - Deniz, A., Ruiz-Llacsahuanga, B., Critzer, F., Boyle, D.L., **Lacasa, J.**, Yucel, U., and Trinetta, V. (2025). Formation and control of Listeria monocytogenes growth and accumulation on food processing surfaces in the fresh produce industry. Journal of Food Protection. [https://doi.org/10.1016/j.jfp.2025.100619](https://doi.org/10.1016/j.jfp.2025.100619)
 - Giordano, N., Hayes, D., Hefley T.J., **Lacasa, J.**, Beres, B., Haag, L.A., Lollato, R. (2025). Re-thinking wheat yield response to plant density: risk assessment of seed treatment and cleaning methods. Plant Methods 21, 38 (2025). [https://doi.org/10.1186/s13007-025-01355-y](https://doi.org/10.1186/s13007-025-01355-y)
 - **Lacasa, J.**, Le Gouis, J., Degan, F., Lemaire, G. and Ciampitti, I. (2024), Effective Nitrogen Use in Wheat: A Multi-Environment Trial Comparison of Nitrogen Utilization Efficiency Versus Nutrition Index. Plant Breed. [https://doi.org/10.1111/pbr.13249](https://doi.org/10.1111/pbr.13249)
